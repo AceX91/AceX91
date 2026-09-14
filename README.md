@@ -6,6 +6,7 @@
 
 📍 Wipro Limited | Domain Expert
 📧 adityamishra16302@gmail.com
+🔗 [linkedin.com/in/acex91](https://www.linkedin.com/in/acex91)
 
 ---
 
@@ -43,9 +44,7 @@
 ### 🤝 Let's connect
 
 - 📧 Email: **adityamishra16302@gmail.com**
+- 🔗 LinkedIn: **[linkedin.com/in/acex91](https://www.linkedin.com/in/acex91)**
 - 💼 Open to: Backend / Python / AI Systems / DevOps roles and collaborations
 
 > *"Computer science is about solving problems, not just writing code."*
-
----
-⭐ *Recruiters / collaborators: check my pinned repos below for live demos and READMEs with architecture + metrics.*
