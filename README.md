@@ -36,11 +36,6 @@
 - Distributed systems fundamentals — caching, queues, scaling
 - Building portfolio projects that demonstrate system design + AI integration
 
-### 📊 GitHub Stats
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AceX91&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceX91&layout=compact&theme=tokyonight&hide_border=true)
-
 ### 🤝 Let's connect
 
 - 📧 Email: **adityamishra16302@gmail.com**
