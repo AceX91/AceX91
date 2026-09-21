@@ -4,7 +4,8 @@
 
 5 years of professional experience coding in **Python**, working with **AI and Systems**. Adept knowledge of **DevOps and Linux**. Currently focusing on **high-performance Python, distributed systems, and backend architecture.**
 
-📍 Wipro Limited | Domain Expert
+I breathe on linux, build for iPad and switch to windows by the day ends!
+
 📧 adityamishra16302@gmail.com
 🔗 [linkedin.com/in/acex91](https://www.linkedin.com/in/acex91)
 
