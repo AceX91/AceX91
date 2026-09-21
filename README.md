@@ -45,12 +45,12 @@ I breathe on linux, build for iPad and switch to windows by the day ends!
 | Window manager | Hyprland 0.56.2 on Wayland |
 | CPU | 12th Gen Intel Core i7-12400 (6c/12t) |
 | GPU | AMD Radeon RX 9070 / 9070 XT (Navi 48) [16GB VRAM] + Intel UHD 730 |
-| Memory / Disk | 46 GB RAM + 46 GB swap, 351 GB root volume |
+| Memory / Disk | 48 GB RAM + 46 GB swap, 351 GB root volume, 3TB Disk Space|
 | Shell / Editor | Bash + Neovim, OpenCode agent workflows |
 | Languages | Python 3.14, Swift 6.3, Node 26, Go 1.27, Java 17, Flutter/Dart |
 | Mobile / Apple | Android SDK (build-tools, NDK), xtool 1.19.2 for iPad sideloading |
-| DevOps | Docker 29, Git, GitHub Actions, mise, `gh` CLI |
-| Data / Cloud | PostgreSQL (`psql`), Google Cloud SDK (`gcloud`) |
+| DevOps | Docker 29, Git, GitHub Actions, mise, `gh` CLI, Jenkins |
+| Data / Cloud | AWS, PostgreSQL (`psql`), Google Cloud SDK (`gcloud`), OracleSQL |
 
 > 🤣 Tech joke: There are only 10 kinds of people in the world — those who understand binary and those who don't.
 
