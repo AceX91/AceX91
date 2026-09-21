@@ -43,7 +43,7 @@ I breathe on linux, build for iPad and switch to windows by the day ends!
 |---|---|
 | OS | Omarchy 4.0.3 (Arch-based), Kernel 7.2.3-arch1-3 |
 | Window manager | Hyprland 0.56.2 on Wayland |
-| CPU | 12th Gen Intel Core i5-12400 (6c/12t) |
+| CPU | 12th Gen Intel Core i7-12400 (6c/12t) |
 | GPU | AMD Radeon RX 9070 / 9070 XT (Navi 48) + Intel UHD 730 |
 | Memory / Disk | 46 GB RAM + 46 GB swap, 351 GB root volume |
 | Shell / Editor | Bash + Neovim, OpenCode agent workflows |
