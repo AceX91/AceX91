@@ -31,6 +31,10 @@ I breathe on linux, build for iPad and switch to windows by the day ends!
 
 > Python • FastAPI / Flask • AI / LLMs / RAG • Docker • CI/CD • Linux • Bash • Git • REST • System Design
 
+### 🔥 GitHub Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AceX91&theme=dark)](https://git.io/streak-stats)
+
 ### 🔭 Currently focusing on
 
 - High-performance Python and async backend patterns
